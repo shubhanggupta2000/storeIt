@@ -4,6 +4,10 @@
 
 - Experience the live app [here](https://store-it-jet.vercel.app/)
 
+![2](https://github.com/user-attachments/assets/e622b11b-a696-4242-a508-26591585c9b5)
+
+![1](https://github.com/user-attachments/assets/67061ffb-9294-40f1-af20-c41a96095d77)
+
 ## <a name="tech-stack">⚙️ Tech Stack</a>
 
 - React 19
